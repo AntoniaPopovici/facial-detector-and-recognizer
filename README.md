@@ -31,7 +31,7 @@ task1.py
 
 ### Additional Information
 
-For more detailed information, refer to the "documentation.pdf" provided in the repository.
+For more detailed information, refer to the `documentation.pdf` provided in the repository.
 
 ## Task 2 - Facial Recognition
 
